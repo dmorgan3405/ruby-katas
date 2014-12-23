@@ -4,9 +4,9 @@ Repo set up for quick acces to ruby katas with examples, and ability to pick up 
 
 #Examples Included
 
-## [Roman Numeral Kata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
+*[Roman Numeral Kata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
 
-## [Fizz Buzz](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+*[Fizz Buzz](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
 
 
 
