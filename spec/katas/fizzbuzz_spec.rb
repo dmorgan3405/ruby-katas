@@ -31,5 +31,10 @@ describe FizzBuzz, 'Output' do
 		actual = FizzBuzz.output 6
 		expect(actual).to eq 'Fizz'
 	end
+
+	it 'Should Return Buzz Given Ten' do
+		actual = FizzBuzz.output 10
+		expect(actual).to eq 'Buzz'
+	end
 end
 
